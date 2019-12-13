@@ -42,7 +42,7 @@
 12. [一枚PHP开发工程师个人站长开发的导航优选网站](https://nav.dreamthere.com/)
 
 
-13. [推荐鹅眼频道](https://new.qq.com/ch/photo/)
+13. [腾讯图片新闻(推荐鹅眼频道)](https://new.qq.com/ch/photo/)
 
 
 14. [小霸王，儿时的游戏机](https://www.yikm.net/)
