@@ -1,9 +1,62 @@
+# 每周分享第 1 期 (2019/12/13)
 
-# 每周分享第 1 期
 这里记录过去一周，我看到的值得分享的东西，每周五发布。
 
-[千亿像素看世界](http://www.bigpixel.cn/t/5834170785f26b37002af474)
+####目前还在摸索中，后面会不断完善，调整。
 
+---
+
+千亿像素的全景图
+[千亿像素看世界](http://www.bigpixel.cn/)
+
+订阅任何网站的 RSS 工具
 [万物皆可 RSS](https://github.com/DIYgod/RSSHub)
 
+每天推荐几个开源的项目
 [每日收集喜欢的开源项目](https://github.com/guanguans/favorite-link)
+
+一个很有质量的个人博客,推荐独立播客和阅读分享
+[一方天地](https://emmmme.com)
+
+收集的中文个人独立博客网站
+[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+
+各类资讯网站的实时榜单
+[今日热榜](https://tophub.today/)
+
+最近在学习 Java 后端技术,这是一个入门教程
+[spring boot 实践学习案例](https://github.com/JeffLi1993/springboot-learning-example)
+
+搜索各种视频的种子
+[磁力链接聚合搜索](https://github.com/xiandanin/magnetW)
+
+提供很多上网账号
+[免费vpn账号](https://free-ss.site/)
+
+提供域名网站、公众号、账号、链接买卖、程序源码等交易中介
+[A5交易平台](https://www.a5.net/)
+
+Android 所有 adb 调试命令的收集
+[ ADB 用法大全](https://github.com/mzlogin/awesome-adb)
+
+一枚PHP开发工程师个人站长开发的导航优选网站
+[导航优选](https://nav.dreamthere.com/)
+
+推荐鹅眼频道
+[腾讯图片新闻](https://new.qq.com/ch/photo/)
+
+小霸王，儿时的游戏机
+[小霸王](https://www.yikm.net/)
+
+
+
+
+
+
+
+
+
+
+
+
+
