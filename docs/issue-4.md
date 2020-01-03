@@ -64,8 +64,7 @@
 [12.数据结构和算法动态可视化](https://visualgo.net/zh)
 
 
-[13.这里记录过去一周看到的一些有趣的文章和项目（又一个每周周报）]([https://joeycz.github.io/weekly/](https://joeycz.github.io/weekly/)
-)
+[13.这里记录过去一周看到的一些有趣的文章和项目（又一个每周周报）](https://joeycz.github.io/weekly/)
 
 
 
