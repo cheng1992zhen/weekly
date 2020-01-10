@@ -1,5 +1,7 @@
 #### 记录每周值得分享的内容，周五发布
 
+[第 5 期](docs/issue-5.md)
+
 [第 4 期](docs/issue-4.md)
 
 [第 3 期](docs/issue-3.md)
