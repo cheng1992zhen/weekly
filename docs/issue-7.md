@@ -25,7 +25,7 @@ IT 行业可以远程办公， vivo 也挺好的，疫情最严重的时候
 
 ---
 
-###【新闻】
+### 【新闻】
 
 [GitHub 发布官方 App](https://github.blog/2020-03-17-github-for-mobile-is-now-available/)
 
