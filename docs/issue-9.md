@@ -46,13 +46,13 @@ Github Stars < 二 >
 
 10. 一款拥有四个版本的跨平台开源 Github 客户端 App
 
-[Flutter 版本](https://github.com/CarGuo/gsy_github_app_flutter)
+  [Flutter 版本](https://github.com/CarGuo/gsy_github_app_flutter)
 
-[Weex 版本](https://github.com/CarGuo/GSYGithubAppWeex) 
+  [Weex 版本](https://github.com/CarGuo/GSYGithubAppWeex) 
 
-[ReactNative 版本](https://github.com/CarGuo/GSYGithubApp) 
+  [ReactNative 版本](https://github.com/CarGuo/GSYGithubApp) 
 
-[Kotlin 版本](https://github.com/CarGuo/GSYGithubAppKotlin) 
+  [Kotlin 版本](https://github.com/CarGuo/GSYGithubAppKotlin) 
 
 11. [掘金翻译计划](https://github.com/xitu/gold-miner)
 
