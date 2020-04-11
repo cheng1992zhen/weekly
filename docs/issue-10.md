@@ -24,7 +24,7 @@
 
 1. [一系列Android进阶文章](https://github.com/SusionSuc/AdvancedAndroid)
 
-2. [如何自学Android]([http://gityuan.com/2016/04/24/how-to-study-android/](http://gityuan.com/2016/04/24/how-to-study-android/))
+2. [如何自学Android](http://gityuan.com/2016/04/24/how-to-study-android/)
 
 3. [Android官方培训课程中文版(v0.9.7)](http://hukai.me/android-training-course-in-chinese/index.html)
 
@@ -47,6 +47,7 @@
 
 最近项目中使用 Bitmap 做了很多操作，之前对 BItmap 不是很熟悉，
 找了几篇博文学习一下。
+
 10. [Android-Bitmap详解](https://blog.csdn.net/zhangtengyuan23/article/details/18818567)
 11. [Android 之Bitmap的使用总结 ](https://blog.csdn.net/da_caoyuan/article/details/79443828)
 12. [Android Bitmap 使用](https://juejin.im/post/5cd3c062f265da03a22f7e6a#heading-19)
